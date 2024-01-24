@@ -36,8 +36,8 @@ tail -f debug.log
 ## Debugging Specific Properties
 To bebug or logger example:
 ```php
-Util::debug('Vr_Modal class loaded');
-Util::logger('Print out movies', $movie_list);
+Util::debug('Vr_Modal class loaded'); -> shows on webpage.
+Util::logger('Print out movies', $movie_list); -> shows in terminal.
 ```
 
 ## Stop debuging
