@@ -1,10 +1,8 @@
 # PHP - Debugger
 ## Debugger created by
-Daniel Pihlström
 - Email: danielpihlstrom@gmail.com
 - Linkedin: [@Daniel Pihlström](https://www.linkedin.com/in/daniel-pihlstr%C3%B6m-55983641/)
 ## Readme created by
-Dennis Kjellin
 - Email: denniskjellin@hotmail.com
 - Linkedin: [@Dennis Kjellin](https://www.linkedin.com/in/denniskjellin/)
 
