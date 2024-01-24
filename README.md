@@ -1,8 +1,12 @@
 # PHP - Debugger
-## Author
+## Debugger created by:
 Daniel Pihlström
 - Email: danielpihlstrom@gmail.com
 - Linkedin: [@Daniel Pihlström](https://www.linkedin.com/in/daniel-pihlstr%C3%B6m-55983641/)
+## Readme instructions:
+Dennis Kjellin
+- Email: denniskjellin@hotmail.com
+- Linkedin: [@Dennis Kjellin](https://www.linkedin.com/in/denniskjellin/)
 
 ## Installation
 Place the `class-util.php` file, for example, inside the theme folder, 'includes', or any location of your choice.
@@ -40,7 +44,6 @@ Util::logger('Print out movies', $movie_list);
 
 ## Stop debuging
 On Windows, press `Ctrl + C` to terminate the terminal, and on macOS, press `Cmd + C`.
-
 
 
 ## Happy Debuging!
