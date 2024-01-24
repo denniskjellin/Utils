@@ -17,6 +17,7 @@ Add the following lines to the `wp-config.php` file:
 define( 'WP_DEBUG_DISPLAY', true );
 define( 'WP_DEBUG_LOG', true );
 define( 'WP_DEBUG', false ); // Change to true/false depending on dev mode or production.
+```
 
 Refer to the wp-config.php file in this repository for an example.
 
