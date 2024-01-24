@@ -1,4 +1,8 @@
 # PHP - Debugger
+## Author
+Daniel Pihlström
+- Email: danielpihlstrom@gmail.com
+- Linkedin: [@Daniel Pihlström](https://www.linkedin.com/in/daniel-pihlstr%C3%B6m-55983641/)
 
 ## Installation
 Place the `class-util.php` file, for example, inside the theme folder, 'includes', or any location of your choice.
@@ -19,18 +23,25 @@ define( 'WP_DEBUG_LOG', true );
 define( 'WP_DEBUG', false ); // Change to true/false depending on dev mode or production.
 ```
 
-Refer to the wp-config.php file in this repository for an example.
+Refer to the `wp-config.php` file in this repository to see an example.
 
 ## Start Debugging
-Open a terminal in the project and write the following command in the terminal:
+Open a `terminal in` the project and write the following command in the terminal:
+```php
 tail -f debug.log
+```
 
 ## Debugging Specific Properties
+To bebug or logger example:
+```php
 Util::debug('Vr_Modal class loaded');
 Util::logger('Print out movies', $movie_list);
+```
 
 ## Stop debuging
-On Windows, press Ctrl + C to terminate the terminal, and on macOS, press Cmd + C.
+On Windows, press `Ctrl + C` to terminate the terminal, and on macOS, press `Cmd + C`.
+
+
 
 ## Happy Debuging!
 
