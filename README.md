@@ -7,7 +7,7 @@
 - Linkedin: [@Dennis Kjellin](https://www.linkedin.com/in/denniskjellin/)
 
 ## Installation
-Place the `class-util.php` file, for example, inside the theme folder, 'includes', or any location of your choice.
+Place the `class-util.php` file, for example, inside the `theme folder`, `includes`, or any location of your choice.
 
 ## Include the file
 Include `class-util.php` by requiring it in your code, such as in `functions.php`:
@@ -28,7 +28,7 @@ define( 'WP_DEBUG', false ); // Change to true/false depending on dev mode or pr
 Refer to the `wp-config.php` file in this repository to see an example.
 
 ## Start Debugging
-Open a `terminal in` the project and write the following command in the terminal:
+Open a `terminal` in the project and write the following command in the terminal:
 ```php
 tail -f debug.log
 ```
