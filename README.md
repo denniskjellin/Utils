@@ -10,7 +10,7 @@ Include `class-util.php` by requiring it in your code, such as in `functions.php
 require_once plugin_dir_path(__FILE__) . 'includes/class-util.php';
 ```
 
-## Edit `wp-config.php?`
+## Edit `wp-config.php`
 
 Add the following lines to the `wp-config.php` file:
 ```php
