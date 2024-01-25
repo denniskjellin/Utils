@@ -28,7 +28,9 @@ define( 'WP_DEBUG', false ); // Change to true/false depending on dev mode or pr
 Refer to the `wp-config.php` file in this repository to see an example.
 
 ## Start Debugging
-Open a `terminal` in the project and write the following command in the terminal:
+Open a `terminal window` within your `project directory`. Ensure you're in the `correct path` where the `debug.log` file is located.
+
+Execute the following command in the terminal:
 ```php
 tail -f debug.log
 ```
