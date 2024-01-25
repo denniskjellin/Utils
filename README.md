@@ -39,8 +39,10 @@ tail -f debug.log
 To bebug or logger example:
 ```php
 Util::debug('Vr_Modal class loaded');
-Util::logger('Print out movies', $movie_list);
+Util::logger('Print out movies', $movie_list); 
 ```
+ `::Debug` -> shows on webpage.
+ `::Logger` -> shows in terminal.
 
 ## Stop debuging
 On Windows, press `Ctrl + C` to terminate the terminal, and on macOS, press `Cmd + C`.
